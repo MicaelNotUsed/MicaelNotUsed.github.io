@@ -1,9 +1,9 @@
 # MicaelNotUsed.github.io
 StainlessSteel.js Changelog
-[Version 0.2]
-[[Bug fixes]]
+Version 0.2
+Bug fixes
 ~ Fixed: Alumina tries to oxidize when there's no oxidized Alumina
-[Version 0.1]
+Version 0.1
 +  Bauxites
  + Bauxite
  + Crushed Bauxite
@@ -14,7 +14,7 @@ StainlessSteel.js Changelog
 + Bauxite can be obtained mining with ores.js
 + Aluminum can be obtained with Bauxite
 + Caustic Soda can be obtained with a series of conductable elements, with Salt Water
-[Release]
+Release
 + Chrome
 + Chromite
 + Stainless Steel
