@@ -1,4 +1,4 @@
-# MicaelNotUsed.github.io
+# StainlessSteel.js Changelog
 StainlessSteel.js Changelog
 ## Version 0.2
 Bug fixes:
